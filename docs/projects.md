@@ -3,12 +3,10 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
-
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+My most recent project was a simple program that
+performed some basic algebra.
 
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+![Output Screenshot](./assets/Screenshot 2022-11-14 142216.png)
